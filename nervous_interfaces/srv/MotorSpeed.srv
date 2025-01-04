@@ -1,3 +1,6 @@
-MotorRequest request
+int32 motorid
+float32 desiredspeed
+float32 desiredfrequency
 ---
-MotorResponse response
+bool success
+string message
