@@ -1,2 +1,3 @@
 int32 motorid
-int32 actualspeed
+bool success
+string message

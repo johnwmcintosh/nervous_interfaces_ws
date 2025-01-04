@@ -1,2 +1,3 @@
 int32 motorid
 int32 desiredspeed
+int32 desiredfrequency
