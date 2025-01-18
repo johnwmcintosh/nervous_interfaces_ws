@@ -1,6 +1,7 @@
 int32 motorid
 float32 desiredspeed
 float32 desiredfrequency
+bool stop
 ---
 bool success
 string message
