@@ -1,1 +1,3 @@
+NearestObject nearestobject
+NearestObject farthestobject
 NearestObject[] objects
